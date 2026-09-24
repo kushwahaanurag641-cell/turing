@@ -1,0 +1,29 @@
+LAB 6 LOGBOOK - <ANURAG KUSHWAHA> - <E26B07F0893>
+SETUP: my working directory is logbook
+T1 prediction: I think ls / will show about ??? items
+T1: /bin holds ???
+T1: /dev holds ???
+T1: / means ??? , ~ means ??? , . means ???
+T1: the OS groups files by ???
+T2 prediction: ./deploy will ??? because ???
+T2 prediction: appending after u-w will ??? because ???
+T2: -rw-r--r-- written in numbers is ???
+T2: ./deploy failed at first because ???
+T2: the new policy needed chmod ???
+-rwxr--rwx  1 anuragkushwaha  staff  36 20 Sep 22:37 deploy
+T3 prediction: ./nst-info will ??? because ???
+T3 prediction: adding .py to the name will ???
+T3: renaming the file to .py changed ???
+T3: file extensions are actually used by ???
+T4 prediction: a file called ls in ~/nst/bin will ???
+T4: nst-info failed from /tmp because ???
+T4: the full path worked because ???
+T4: PATH is searched from ??? to ??? and stops at ???
+T4: my fake ls took over because ???
+T4: the PATH change vanished in a new terminal because ???
+EXIT 1: a file has -rw-r--r--. running ./file does ??? and the one command that fixes
+it is ???
+EXIT 2: python3 script works but ./script says permission denied. explained to a
+friend: ???
+EXIT 3: PATH worked yesterday, gone this morning, nobody touched the file. what
+happened: ???

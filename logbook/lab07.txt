@@ -1,0 +1,34 @@
+LAB 7 LOGBOOK - <your name> - <your roll no>
+SETUP: clang version ??? python3 version ???
+T1: running hello.py created ??? new files
+T1 prediction: ./hello.c will ??? and python3 hello.c will ???
+T1: ./hello.c failed because ??? ; python3 hello.c failed because ???
+T1: the extra step in the C workflow is ??? and it produces ???
+T1: when I run python3 hello.py the CPU executes ??? ; hello.py is just ???
+T1: hello.c is ??? bytes and hello is ??? bytes. my guess for why: ???
+T2: file says hello is ??? (copy the whole line)
+T2 prediction: python3 itself is ???
+T2: python3 is ??? so when I run python3 hello.py the CPU executes ??? and reads ??? as data
+T2: my string sits at offset ??? inside hello
+T2: hello.py contains only ??? ; the extra bytes in hello are ???
+T2: Ops saw garbage because a text editor was showing ??? as if it were ???
+T3 prediction: ??? will win by about ???x
+T3: C took ??? s, Python took ??? s, ratio ??? ; the contractor's 50x claim is ???
+T3: for hello the gap was ??? s and without the time command I would ??? have noticed
+T3: on every pass the interpreter had to ??? ; ./sum had that done ???
+T3: interpretation cost matters when ??? and does not matter when ???
+T3: sum_fast took ??? s which is suspicious because ???
+T4: same model of Mac as mine: send ??? because ???
+T4: the intern's Intel Mac (x86_64): send ??? because ???
+T4: a Windows laptop with Python installed: send ??? because ???
+T4: the Ubuntu build server (ELF): send ??? because ???
+T4: to run, hello.py needs ??? on the target ; hello needs ???
+T4: the file that travels better is ??? and the price of that is ???
+T4: the contractor's note said runs anywhere. verdict: ??? because ???
+T5: at -O0, f has ??? adds and g has ??? ; this ??? match dis.dis
+T5 prediction: with -O2, f will ???
+T5: at -O2, f has ??? adds. the compiler ???
+T5: the compiler can afford to optimise because its work happens ??? and is paid ???
+T5: the interpreter cannot because its work happens ??? and would be paid ???
+T5: sum_fast ran in ~0 s because the compiler ???
+T5: building Chrome takes an hour of compiling. developers accept this because ???
